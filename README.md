@@ -5,6 +5,8 @@
 ## Olá, meu nome é Julio, e aqui irei apresentar um pouco sobre minha pessoa
 
 :mortar_board: Estudo Engenharia de Controle e Automação, atualmente estou no 6° semestre
+:grin: Gosto bastante da área de desenvolvimento e evoluir como pessoa também
+:relaxed: Jogar video game e assistir séries e animes é maravilhoso!
 
 ### Meus contatos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Julio-JPereira)](https://github.com/Julio-JPereira)
